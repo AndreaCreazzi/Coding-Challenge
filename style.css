@@ -1,0 +1,97 @@
+body{
+    background-image: url(background.jpg);
+    background-size: 99%;
+}
+
+.container{
+    width: 60%;
+    margin: auto;
+    color: limegreen;
+    text-align: center;
+    font-size: 30px;
+    height: 780px;
+    width: 1050px;
+    background-color: rgba(0, 0, 0, 0.5);
+    border: 1px;
+    border-radius: 10px;
+}
+
+.space{
+    height: 100px;
+    width: 100px;
+}
+
+.logo{
+    border: 1px;
+    border-radius: 4px;
+    padding: 5px;
+    width: 220px;
+}
+
+.input{
+    background-color: limegreen;
+    height: 40px;
+    margin: auto;
+    width: 860px;
+}
+
+.test{
+    color: white;
+    font-size: 25px;
+    width: 38%;
+    margin: 20px;
+}
+
+
+.font-p{
+    font-size: medium;
+    width: 105%;;
+    margin: 5px;
+
+}
+
+.font{
+    font-size: medium;
+    width: 100%;;
+    margin: 5px;
+}
+
+.font2{
+    font-size: medium;
+    width: 65%;
+    margin: 5px;
+}
+
+.charge{
+    background-color:orange ;
+    height: 40px;
+    margin: auto;
+    width: 250px;
+    border-radius: 10px;
+    margin-left: 100px;
+}
+
+.charge2{
+    background-color:green ;
+    height: 40px;
+    margin: auto;
+    width: 500px;
+    border-radius: 10px;
+    margin-left: 100px;
+}
+
+.charge3{
+    background-color:red ;
+    height: 40px;
+    margin: auto;
+    width: 150px;
+    border-radius: 10px;
+    margin-left: 100px;
+}
+
+.test2{
+    color: white;
+    font-size: 25px;
+    width: 39%;
+    margin: 20px;
+}
